@@ -1,4 +1,9 @@
  🏯H4ckRonin🏯
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/intent/user?screen_name=hackronin)](https://twitter.com/intent/user?screen_name=hackronin) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/h4ckronin/)](https://www.linkedin.com/in/h4ckronin/) [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://h4ckronin.medium.com/)](https://h4ckronin.medium.com/)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-c14438?style=flat-square&logo=YouTube&logoColor=white&link=https://youtube.com/@Hackronin)](https://youtube.com/@Hackronin)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/h4ckronin/)](https://www.instagram.com/h4ckronin/)
+
+![Visitor Count](https://profile-counter.glitch.me/{h4ckronin}/count.svg)
 
 **`Digital Samurai (On-Site IT Support/Swordfighter/Aspiring Red Teamer)`**
 
@@ -48,3 +53,20 @@ I'm an Infosec Student building my version of the digital world one step at a ti
 
 [website]: Comming soon
 [youtube]: https://youtube.com/@Hackronin
+
+### Some Certifications
+
+<a href='https://certs.ine.com/bffa2109-475e-4222-861c-6bb851e71983'>
+<img  src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/89827240" alt="Alt text" style="width:100px;">
+</a>
+<a href='https://www.credly.com/badges/381cc55c-1e00-47b3-a678-5454932708bf/public_url'>
+ <img  src="https://images.credly.com/size/110x110/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" alt="Alt text" style="width:100px;">
+</a>
+<a href='https://www.credly.com/badges/22d82bbf-0a03-4761-a6ea-88088ca98388/public_url'>
+<img  src="https://images.credly.com/size/110x110/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" alt="Alt text" style="width:100px;">
+</a>
+
+
+<a href='https://www.linkedin.com/in/hackronin/details/certifications/'>More Certifications...</a>
+
+<a href='https://tryhackme.com/p/h4ckronin'>
