@@ -6,7 +6,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{h4ckronin}/count.svg)
 
-**`Digital Samurai (On-Site IT Support/Swordfighter/Aspiring Red Teamer)`**
+**`Digital Samurai (Ethical Hacker/Swordfighter/Aspiring Red Teamer)`**
 
 I'm an Infosec Student building my version of the digital world one step at a time. All projects will be made to make hacking more meaningful and digestable. I am also sharing my gitbook and will make HTB Writeups while mentoring students. I publish that content on my YouTube channel
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXlkNjgyamhlNnRweTBxamx0bnFjcWtwOGp2cXF5ZHBocGNjMjhmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AEUmDcMJ8qYVO/giphy.gif" align="center" width="1000">
