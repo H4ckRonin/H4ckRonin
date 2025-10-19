@@ -9,8 +9,8 @@
 **`Digital Samurai (Ethical Hacker/Swordfighter/Aspiring Red Teamer)`**
 
 I'm an Infosec Student building my version of the digital world one step at a time. All projects will be made to make hacking more meaningful and digestable. I am also sharing my gitbook and will make HTB Writeups while mentoring students. I publish that content on my YouTube channel
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXlkNjgyamhlNnRweTBxamx0bnFjcWtwOGp2cXF5ZHBocGNjMjhmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AEUmDcMJ8qYVO/giphy.gif" align="center" width="1000">
 
+<img src="https://github.com/H4ckRonin/H4ckRonin/blob/main/gif1.gif" align="center" width="750">
    <p align="left">
       <a href="https://www.youtube.com/@HackRonin?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCE5c4JKcaMtnqirwen0b29g?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
