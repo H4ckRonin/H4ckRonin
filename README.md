@@ -4,8 +4,6 @@
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-c14438?style=flat-square&logo=YouTube&logoColor=white&link=https://youtube.com/@Hackronin)](https://youtube.com/@Hackronin)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/h4ckronin/)](https://www.instagram.com/h4ckronin/)
 
-![Visitor Count](https://profile-counter.glitch.me/{h4ckronin}/count.svg)
-
 **`Digital Samurai (Ethical Hacker/Swordfighter/Aspiring Red Teamer)`**
 
 I'm an Infosec Student building my version of the digital world one step at a time. All projects will be made to make hacking more meaningful and digestable. I am also sharing my gitbook and will make HTB Writeups while mentoring students. I publish that content on my YouTube channel
