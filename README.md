@@ -5,9 +5,7 @@
 ### 👋 Hi, I'm Sofyan (aka **h4ckronin**)  
 **Ethical Hacker** | **Security Educator** | **Lifelong Learner**
 
-I'm an ethical hacker at **Orange Cyberdefense**, helping organizations stay ahead by finding vulnerabilities before attackers do.
-
-I train cybersecurity professionals through hands-on, real-world scenarios because I believe the best way to learn is by doing.
+I'm an ethical hacker helping organizations stay ahead by finding vulnerabilities before attackers do.
 
 <details>
  <summary><h3>👨‍💻 H4ckRonin's Hacking Journey</h3></summary>
