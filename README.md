@@ -13,10 +13,6 @@ I train cybersecurity professionals through hands-on, real-world scenarios becau
  <summary><h3>👨‍💻 H4ckRonin's Hacking Journey</h3></summary>
  My interest in technology started at a young age. As a child I played a lot of videogames and at the age of 11 got to mod my Wii console. In 2015, after being inspired by hackers at a corporate event I decided to become a professional hacker to help protect companies from cyberattacks. Ultimately I am committed to developing my skills by pursuing a career in cybersecurity to help people.
 
-
-[website]: Comming soon
-[youtube]: https://youtube.com/@Hackronin
-
 ### Some Certifications
 
 <a href='https://certs.ine.com/bffa2109-475e-4222-861c-6bb851e71983'>
